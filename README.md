@@ -1,6 +1,3 @@
-Perfeito! Agora vou criar um README profissional e detalhado para o Wordle Pro:
-
-```markdown
 # 🎮 WORDLE PRO — Multi-Modo 2026
 
 > Um jogo de adivinhação de palavras desenvolvido em Python com CustomTkinter. Versão profissional e modular do clássico Wordle com suporte a múltiplas palavras simultâneas, diferentes tamanhos (5-7 letras), teclado interativo e sistema de feedback visual com cores oficiais Wordle.
