@@ -1,0 +1,8 @@
+{
+    "word_length": 5,
+    "max_attempts": 9,
+    "theme": "blue",
+    "points_correct": 100,
+    "points_position": 50,
+    "points_letter": 25
+}
